@@ -13,6 +13,10 @@ I am a biotecnology engeener with a QA formation in process, I have worked in mu
 * Tools: JIRA, Github
 * Biotechnology tools:HPLC, Cell culture, Gas Chromatografi,Electroforesis.
 ## Main proyects
-  *Urban Routes (Taxi Reservation Aplication)
-  
-  
+* Urban Routes (Taxi Reservation Aplication)
+  * Description: Real time platform which allows users to make a reservation for a taxi, check the travel history, and manage payment methods
+  * **Used techniques**:  Manual testing, JIRA, POSTMAN
+  * Contribution: I excecuted 51 trials in order to test both stability and function of the reservation page.
+  * Reported 5 critical errors
+  * [Evidence](https://docs.google.com/spreadsheets/d/1_mzzLuiHzlzRq1vxrW9fRG5cSAsZPPDh/edit?usp=sharing&ouid=100087947782992792071&rtpof=true&sd=true)
+ Thank you for taking the time to read my profile.
