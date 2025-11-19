@@ -19,4 +19,5 @@ I am a biotecnology engeener with a QA formation in process, I have worked in mu
   * Contribution: I excecuted 51 trials in order to test both stability and function of the reservation page.
   * Reported 5 critical errors
   * [Evidence](https://docs.google.com/spreadsheets/d/1_mzzLuiHzlzRq1vxrW9fRG5cSAsZPPDh/edit?usp=sharing&ouid=100087947782992792071&rtpof=true&sd=true)
- Thank you for taking the time to read my profile.
+
+ ## Thank you for taking the time to read my profile.
